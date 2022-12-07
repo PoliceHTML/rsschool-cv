@@ -2,7 +2,7 @@
 
 ## Контакты
 
-Discord: Vlados#2909
+Discord: Vlados#2909,
 
 E-mail: baton4ik123456@gmail.com
 
