@@ -19,7 +19,7 @@ E-mail: baton4ik123456@gmail.com
 1. Фрилансер по жизни,
 2. от 0 до 1,
 
-JavaScript https://learn.javascript.ru/
+JavaScript https://learn.javascript.ru/.
 
 ## Языки:
 Анлгийский - A2,
